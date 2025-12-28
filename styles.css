@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 24px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.page {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+header,
+footer {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+footer {
+    margin-top: 48px;
+    font-size: 0.9rem;
+    color: #666;
+}
