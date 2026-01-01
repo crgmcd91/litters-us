@@ -19,8 +19,14 @@ body {
 
 .site-header,
 .site-footer {
+    text-align: center;
     max-width: 800px;
     margin: 0 auto;
+}
+
+.intro .tagline {
+    font-style: italic;
+    color: #555;
 }
 
 footer {
