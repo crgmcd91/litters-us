@@ -17,6 +17,11 @@ body {
     gap: 20px;
 }
 
+main section {
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+}
+
 .site-header,
 .site-footer {
     text-align: center;
