@@ -20,11 +20,13 @@ body {
 main section {
     padding-bottom: 1rem;
     border-bottom: 1px solid #eee;
+    padding-left: 10%;
 }
 
 .site-header {
     display: flex;
         justify-content: center;
+        padding-left: 5%;
 
 }
 .site-footer {
