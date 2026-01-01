@@ -22,7 +22,11 @@ main section {
     border-bottom: 1px solid #eee;
 }
 
-.site-header,
+.site-header {
+    display: flex;
+        justify-content: center;
+
+}
 .site-footer {
     text-align: center;
     max-width: 800px;
